@@ -10,6 +10,6 @@ Enterprise AI products built for the intelligence gap — where AI processing me
 
 ARC-AGI-3 (March 2026): Frontier AI scores below 1% on adaptive reasoning. Humans score 100%. The most capable system combines both.
 
-Founded by Arthur Dell (ex-Field CTO, Cohesity). DIFC Innovation One, Dubai. License CL12872.
+Founded by Arthur Dell — 30+ years across BMW, Sun, HP, Symantec, Citrix, Veritas, Cohesity. Previous founder (BSI, exited 2005). DIFC Innovation One, Dubai. License CL12872.
 
 Pre-launch. [www.dellight.ai](https://www.dellight.ai) | [llms.txt](https://www.dellight.ai/llms.txt)
