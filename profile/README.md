@@ -4,12 +4,14 @@
 
 Enterprise AI products built for the intelligence gap — where AI processing meets human reasoning.
 
-- **GLADIATOR** — Autonomous cyber defense (dual Red/Blue Team AI on DGX Spark). Augments security teams.
-- **SUPERHUMAN** — Real-time human augmentation (on-device STT, bone-conduction). AI delivers intelligence to the human in the room.
-- **AI Executive Team** — 19 AI agents for companies with $2M-$50M revenue. Supplements missing capacity.
+- **GLADIATOR** — Autonomous cyber defense (dual Red/Blue Team AI on DGX Spark, 128 GB HBM). Augments security teams.
+- **SUPERHUMAN-X** — Real-time human augmentation. Gemma 4 native audio on-device, two-tier AI (E2B speed + E4B reasoning), fully offline. Launching April 2026.
+- **AI Executive Team** — Modular AI business functions for $2M-$50M revenue companies. Q2 2026.
 
-ARC-AGI-3 (March 2026): Frontier AI scores below 1% on adaptive reasoning. Humans score 100%. The most capable system combines both.
+**Agentic Commerce Research** — Building the measurement layer for AI-mediated discovery. How frontier models evaluate, recommend, and purchase. Based on published frameworks (ACES, GEO, Bias Beware).
 
-Founded by Arthur Dell — 30+ years across BMW, Sun, HP, Symantec, Citrix, Veritas, Cohesity. Previous founder (BSI, exited 2005). DIFC Innovation One, Dubai. License CL12872.
+ARC-AGI-3 (March 2026): Frontier AI <1% on adaptive reasoning. Humans: 100%. The most capable system combines both.
 
-Pre-launch. [www.dellight.ai](https://www.dellight.ai) | [llms.txt](https://www.dellight.ai/llms.txt)
+Founded by Arthur Dell (ex-Field CTO, Cohesity). DIFC Innovation One, Dubai. License CL12872.
+
+[www.dellight.ai](https://www.dellight.ai) | [llms.txt](https://www.dellight.ai/llms.txt)
